@@ -1,0 +1,6 @@
+{
+    "use": ["postcss-custom-properties", "colorguard"],
+    "colorguard": {
+      "whitelist": [["#212121", "#202020"]]
+    }
+}

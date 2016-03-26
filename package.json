@@ -1,0 +1,30 @@
+{
+  "name": "postcss-js-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postcss": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rofrol/postcss-js-api-example.git"
+  },
+  "author": "Roman Frołow <rofrol@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rofrol/postcss-js-api-example/issues"
+  },
+  "homepage": "https://github.com/rofrol/postcss-js-api-example#readme",
+  "devDependencies": {
+    "colorguard": "^1.1.1",
+    "eslint": "^2.5.1",
+    "eslint-config-airbnb": "^6.2.0",
+    "postcss-cli": "^2.5.1",
+    "postcss-custom-properties": "^5.0.0",
+    "postcss-reporter": "^1.3.3",
+    "stylelint": "^5.2.1",
+    "stylelint-config-standard": "^4.0.1"
+  }
+}
